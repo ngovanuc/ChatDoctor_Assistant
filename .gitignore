@@ -1,16 +1,9 @@
-datasets/ChatDoctor-HealthCareMagic-100k
-datasets/ChatDoctor-iCliniq
-datasets/liveqa_medical_trec2017
-datasets/med_qa
-datasets/medical_meadow_cord19
-datasets/medical_meadow_medical_flashcards
-datasets/medical_meadow_mediqa
-datasets/medical_meadow_medqa
-datasets/medical_meadow_mmmlu
-datasets/medical_meadow_wikidoc
-datasets/medical-eval-sphere
-datasets/mediQ
-datasets/MediQ_AskDocs
-datasets/pubmed_qa
+api_keys
 
-models/Llama-3.1-MedPalm2-imitate-8B-Instruct-GGUF
+datasets/*
+!datasets/README.md
+
+models/*
+!models/README.md
+
+source/config/*
