@@ -1,9 +1,9 @@
-api_keys
-
 datasets/*
 !datasets/README.md
 
 models/*
 !models/README.md
+
+notes
 
 source/config/*
