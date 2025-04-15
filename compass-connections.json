@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "48554ccb-bb21-4a59-b66d-b1491e479d1e",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1743956147552"
+        }
+      },
+      "favorite": {
+        "name": "NGOVANUC_MONGODB",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
