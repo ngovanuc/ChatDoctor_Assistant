@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_package"
+version = "0.1.0"
+description = "Một gói Python siêu xịn cho xử lý dữ liệu"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+  { name="NGÔ VĂN ÚC", email="ngovanuc.1508@gmail.com" }
+]
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=1.5"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/uc/my_package"
+"Source" = "https://github.com/uc/my_package"
+
+[tool.setuptools.packages.find]
+where = ["."]

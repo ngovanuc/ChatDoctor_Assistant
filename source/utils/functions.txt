@@ -1,0 +1,50 @@
+CÁC CHỨC NĂNG CHO BỆNH NHÂN
+    - Đặt lịch khám:
+        + tra cứu thời gian còn trống
+        + đặt lịch theo chuyên khoa/bác sĩ
+        + nhắc lịch hẹn (qua chatbot hoặc SMS)
+    - Gọi điện cấp cứu khẩn cấp
+        + gọi điện cấp cứu khẩn cấp
+        + hướng dẫn nhanh tình huống khẩn cấp tại chỗ
+    - Tra cứu thông tin khám bệnh
+        + xem lịch sử khám
+        + xem kết quả xét nghiệm, toa thuốc
+        + hướng dẫn tái khám
+    - Tư vấn thông tin y tế cơ bản
+        + hỏi đáp các triệu chứng thông thường
+        + tư vấn sơ bộ
+        + giới thiệu chuyên khoa phù hợp
+    - Hỗ trợ thủ tục hành chính
+        + hướng dẫn làm hồ sơ bệnh án
+        + cách sử dụng thẻ BHYT
+        + thủ tục nhập viện/xuất viện
+    - Phản hồi, góp ý
+        + gửi đánh giá về dịch vụ
+        + báo cáo vấn đề
+
+CÁC CHỨC NĂNG CHO BÁC SĨ
+    - Quản lý lịch làm việc
+        + xem, cập nhật lịch khám
+        + quản lý bệnh nhân theo khung giờ
+    - Trợ lý AI hỗ trợ chuyên môn (nâng cao)
+        + tóm tắt nhanh hồ sơ bệnh án nhanh
+        + gợi ý chuẩn đoán từ triệu chứng/xét nghiệm
+        + tra cứu nhanh hướng điều trị
+    - Gửi thông báo cho bệnh nhân
+        + nhắc tái khám
+        + gửi thông tin thuốc
+        + cảnh báo về các sức khỏe công cộng
+
+CÁC CHỨC NĂNG HỆ THỐNG (backend/admin)
+    - Quản trị người dùng (bệnh nhân/bác sĩ)
+    - Tích hợp hệ thống HIS
+    - Ghi log hội thoại, bảo mật thông tin
+    - Phân quyền truy cập
+    - Hệ thống phân tích thống kê tương tác
+
+CÁC CHỨC NĂNG NÂNG CAO HƠN (NẾU CÓ TIỀM LỰC)
+    - Hỗ trợ đa ngôn ngữ
+    - Fine-tune theo từng bệnh viện
+    - Voice chatbot
+    - Tích hợp Zalo, Message, Web
+    - Phân tích dữ liệu hội thoại
